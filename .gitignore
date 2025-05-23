@@ -1,0 +1,33 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Log files
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Excel files (since they might contain sensitive data)
+*.xlsx
+*.xls
+*.csv
+*.txt
+
+# Config files that might contain sensitive data
+*_config.json 
